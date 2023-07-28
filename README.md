@@ -1,5 +1,6 @@
 # Interpreter for the Text Jedi Language
 Interpreter was written in C.
+Program need a text file named as "code.tj".
 
 ## Objectives
 Text Jedi is a programming language that was designed for editing text files mainly by cutting and pasting operations. (It is imaginary)
