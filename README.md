@@ -19,7 +19,8 @@ Declarations are done with the “new” keyword. <br>
 ## Assignment, Operations and Functions
 “:=”  is the assignment operator. On the left hand side there has to be a variable name and on the right hand side there may be either a value, an arithmetic expression or a function call. <br>
 A value is either a constant or a variable. <br>
-An arithmetic expression is composed of two operands and an operator written in infix form. Valid operators are “+” and “-”. <br>
+An arithmetic expression is composed of two operands and an operator written in infix form. <br>
+Valid operators are “+” and “-”. <br>
 **Ex**: 
  MyText := “Hello world”; <br>
  myInt:=0; <br>
