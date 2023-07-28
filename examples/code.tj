@@ -1,0 +1,65 @@
+subs("bri",0,1);
+new int total2;
+new text myText;
+new int myInt;
+insert("Hello world!",6,"beautiful ");
+new text FirstText;
+new text SecondText;
+locate("This is a big text example.","big",0);
+override("Hello, world!",7,"there");
+new int val;
+size("ssq");
+new int total;
+new text TotalText;
+new text myText2;
+new int toplam;
+new text sub;
+new text toplamtext;
+new text toplamtext2;
+
+size("sdsadsadsadsa");
+FirstText := " Hello";
+SecondText := " world";
+myText2 := "hello";
+locate("1233 hello world",myText2,0);
+myInt:= 21;
+val := 5;
+myText := myText2 + " world";
+total := val + myInt;
+sub := "wo";
+
+override(myText,6,"there");
+insert("beautiful ",9,myText);
+size("helrgdrg");
+locate(myText,"world",0);
+total2 := myInt+total;
+subs("Delhi is the capital of india",0,20);
+
+override("Hello, world!",7,SecondText);
+TotalText := SecondText + FirstText;
+insert(myText,6," beautiful");
+MyText := FirstText+SecondText;
+
+toplam := 21-45;
+
+toplamtext := TotalText - "d";
+
+write myText to yourTextFile;
+
+asText(val)
+subs(myText,6,11);
+subs("abc@123|def",3,7);
+locate(myText,SecondText,0);
+override(myText,5,FirstText);
+size("hhhelllsadsdafffffff");
+
+read myString from myTextFile;
+
+write sub to yourTextFile;
+write "next city no sleep" to yourTextFile;
+write "we on 24/7" to yourTextFile;
+
+input toplamtext2 prompt "100 karakterli metni giriniz: ";
+
+output toplamtext;
+
