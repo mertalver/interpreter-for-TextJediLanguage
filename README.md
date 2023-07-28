@@ -1,6 +1,7 @@
 # Interpreter for the Text Jedi Language
-Interpreter was written in C.
-Program need a text file named as "code.tj".
+Interpreter is written in C. <br>
+Program needs a source file named as "code.tj" to doing text operations which'll be mentioned below. <br>
+The code.tj file must contain the intended operations like assign, addition, subtraction, text operations etc..
 
 ## Objectives
 Text Jedi is a programming language that was designed for editing text files mainly by cutting and pasting operations. (It is imaginary)
@@ -13,7 +14,7 @@ String constants are written “like this” and integer constants are natural (
 All variables should be declared before they are used. <br> 
 Declarations are done with the “new” keyword. <br>
 **Ex**: new text myText;  new int myInt; /* This is a comment*/
-                                    /* And two lines of code on one line is OK */
+                                        /* And two lines of code on one line is OK */
      
 ## Assignment, Operations and Functions
 “:=”  is the assignment operator. On the left hand side there has to be a variable name and on the right hand side there may be either a value, an arithmetic expression or a function call. <br>
